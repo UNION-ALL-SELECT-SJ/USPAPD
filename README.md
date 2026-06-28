@@ -1,3 +1,4 @@
+Disclaimer: No, this is not a police department
 # USPAPD - Universal Serial Parallel & Analog Protocol Diagnostics Device
 Universal Analog Serial &amp; Parallel Diagnostics Device - Self-contained Debugger for various common communication protocols in PCBs
 
