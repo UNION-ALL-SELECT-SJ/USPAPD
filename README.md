@@ -1,9 +1,9 @@
-# UASPD
+# USPAPD
 Universal Analog Serial &amp; Parallel Diagnostics Device - Self-contained Debugger for various common communication protocols in PCBs
 
 ## Abstract
 A human portable device for tapping into various short-distance communication lines common in most smart electronic devices, such as computers, microcontrollers, sensors, peripherals etc.
-The UASPD is intended to be a handy tool for capturing information sent along these lines, and serves the purpose of being a light-weight debugging tool.
+The USPAPD is intended to be a handy tool for capturing information sent along these lines, and serves the purpose of being a light-weight debugging tool.
 
 ## Functions
 - Intakes data from the following protocol types:
